@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../UnitTest 8.1.c/UnitTest 8.1.c.vcxproj" />
+  <Project Path="Laba 8.1.c.vcxproj" Id="3f000a82-2601-4fdb-a7fd-bedfa07e46af" />
+</Solution>

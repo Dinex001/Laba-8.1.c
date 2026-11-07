@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IK 11\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\\u043B\u0430\u0431\u0430 8\\Laba 8.1.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F000A82-2601-4FDB-A7FD-BEDFA07E46AF}|Laba 8.1.c.vcxproj|D:\\IK 11\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\\u043B\u0430\u0431\u0430 8\\Laba 8.1.c\\Laba 8.1.c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F000A82-2601-4FDB-A7FD-BEDFA07E46AF}|Laba 8.1.c.vcxproj|solutionrelative:Laba 8.1.c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6E33C3-BFA8-ABAE-25F9-9D3473A570D7}|..\\UnitTest 8.1.c\\UnitTest 8.1.c.vcxproj|D:\\IK 11\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\\u043B\u0430\u0431\u0430 8\\UnitTest 8.1.c\\UnitTest 8.1.c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest 8.1.c.cpp",
+              "DocumentMoniker": "D:\\IK 11\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\\u043B\u0430\u0431\u0430 8\\UnitTest 8.1.c\\UnitTest 8.1.c.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest 8.1.c\\UnitTest 8.1.c.cpp",
+              "ToolTip": "D:\\IK 11\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\\u043B\u0430\u0431\u0430 8\\UnitTest 8.1.c\\UnitTest 8.1.c.cpp",
+              "RelativeToolTip": "..\\UnitTest 8.1.c\\UnitTest 8.1.c.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T09:44:13.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba 8.1.c.cpp",
+              "DocumentMoniker": "D:\\IK 11\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\\u043B\u0430\u0431\u0430 8\\Laba 8.1.c\\Laba 8.1.c.cpp",
+              "RelativeDocumentMoniker": "Laba 8.1.c.cpp",
+              "ToolTip": "D:\\IK 11\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\\u043B\u0430\u0431\u0430 8\\Laba 8.1.c\\Laba 8.1.c.cpp",
+              "RelativeToolTip": "Laba 8.1.c.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T09:29:35.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
